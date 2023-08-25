@@ -1,0 +1,13 @@
+.rod {
+    background-color: #16213e;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .rod h1 {
+    color: white;
+    font-size: 15px;
+  }
+  
